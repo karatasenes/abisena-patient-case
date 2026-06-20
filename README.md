@@ -1,5 +1,7 @@
 # Patient Tracking System
 
+![Application Preview](./screenshots/1.png)
+
 A patient management application built with React 18 and TypeScript.
 
 ## Tech Stack
@@ -91,3 +93,21 @@ src/
 * Filtering Functionality
 * Sorting Functionality
 * Turkish / English Support
+
+## Screenshots
+
+![Screenshot 1](./screenshots/1.png)
+
+![Screenshot 2](./screenshots/2.png)
+
+![Screenshot 3](./screenshots/3.png)
+
+![Screenshot 4](./screenshots/4.png)
+
+![Screenshot 5](./screenshots/5.png)
+
+![Screenshot 6](./screenshots/6.png)
+
+![Screenshot 7](./screenshots/7.png)
+
+![Screenshot 8](./screenshots/8.png)
