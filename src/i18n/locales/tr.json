@@ -1,0 +1,64 @@
+{
+  "patients": {
+    "title": "Hasta Takip Sistemi",
+    "subtitle": "Poliklinik hasta randevu ve takip paneli",
+    "shownCount": "Gösterilen hasta: {{count}}",
+    "add": "Yeni Hasta Ekle",
+    "edit": "Hasta Düzenle",
+    "save": "Kaydet",
+    "update": "Güncelle",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "actions": "İşlemler",
+    "search": "Hasta ara...",
+    "allDepartments": "Tüm bölümler",
+    "department": "Bölüm",
+    "appointmentDate": "Randevu Tarihi",
+    "fullName": "Hasta Adı",
+    "status": "Durum",
+    "priority": "Öncelik",
+    "bloodType": "Kan Grubu",
+    "score": "Skor",
+    "sort": {
+      "newest": "En yeni kayıt",
+      "appointment": "Yakın randevu",
+      "score": "Skor yüksek"
+    },
+    "priorityValues": {
+      "normal": "Normal",
+      "acil": "Acil"
+    },
+    "statusValues": {
+      "Bekliyor": "Bekliyor",
+      "Muayenede": "Muayenede",
+      "Tamamlandı": "Tamamlandı",
+      "İptal": "İptal"
+    },
+    "notifications": {
+      "created": "Hasta başarıyla eklendi.",
+      "updated": "Hasta başarıyla güncellendi.",
+      "deleted": "Hasta başarıyla silindi."
+    },
+    "confirmDelete": "Bu hastayı silmek istediğine emin misin?",
+    "fetchError": "Hasta listesi alınırken bir hata oluştu.",
+    "empty": "Gösterilecek hasta bulunamadı."
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu."
+  },
+  "validation": {
+    "fullNameMin": "Hasta adı en az 2 karakter olmalı",
+    "departmentRequired": "Bölüm seçilmeli",
+    "appointmentDateRequired": "Randevu tarihi seçilmeli",
+    "priorityRequired": "Öncelik seçilmeli",
+    "bloodTypeRequired": "Kan grubu seçilmeli"
+  },
+  "departments": {
+    "Kardiyoloji": "Kardiyoloji",
+    "Nöroloji": "Nöroloji",
+    "Ortopedi": "Ortopedi",
+    "Dahiliye": "Dahiliye",
+    "Pediatri": "Pediatri"
+  }
+}

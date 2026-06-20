@@ -1,0 +1,1 @@
+export const PRIORITIES = ["normal", "acil"] as const;

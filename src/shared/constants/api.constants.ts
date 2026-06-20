@@ -1,0 +1,1 @@
+export const API_URL = "https://v0-json-api-three.vercel.app/api/data";
