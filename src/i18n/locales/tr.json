@@ -21,8 +21,8 @@
     "score": "Skor",
     "sort": {
       "newest": "En yeni kayıt",
-      "appointment": "Yakın randevu",
-      "score": "Skor yüksek"
+      "appointment": "Randevu tarihine göre",
+      "score": "En yüksek skor"
     },
     "priorityValues": {
       "normal": "Normal",
