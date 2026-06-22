@@ -60,5 +60,10 @@
     "Ortopedi": "Ortopedi",
     "Dahiliye": "Dahiliye",
     "Pediatri": "Pediatri"
+  },
+  "pagination": {
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "pageInfo": "Sayfa {{current}} / {{total}}"
   }
 }

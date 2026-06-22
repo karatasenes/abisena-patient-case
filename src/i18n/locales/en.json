@@ -60,5 +60,10 @@
     "Ortopedi": "Orthopedics",
     "Dahiliye": "Internal Medicine",
     "Pediatri": "Pediatrics"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "pageInfo": "Page {{current}} / {{total}}"
   }
 }
